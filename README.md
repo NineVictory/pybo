@@ -47,9 +47,9 @@
 >## 백엔드
  >> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br>
 > >
- >> <img src="https://img.shields.io/badge/MVC-0c0d0c?style=for-the-badge&logo=MVC&logoColor=white"><br>
-> >
  >> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/><br>
+> >
+ >> <img src="https://img.shields.io/badge/MVC-0c0d0c?style=for-the-badge&logo=MVC&logoColor=white"><br>
 > >
  >> <img src="https://img.shields.io/badge/WebSocket-0c0d0c?style=for-the-badge&logo=WebSocket&logoColor=white"><br>
 > > 
