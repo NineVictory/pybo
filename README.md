@@ -27,34 +27,34 @@
 > >
 > > canva (PPT 제작)
 >## IDE
- >> Eclipse
+ >> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 > > 
 >## 프론트
- >> HTML
+ >> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
 > > 
- >> CSS
+ >> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
 > > 
- >> JAVASCRIPT
+ >> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
 > >
- >> BootStrap
+ >> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
 > >
- >> JSP
+ >> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"><br>
 > >
- >> jQuery
-> >
- >> Ajax
+ >> <img src="https://img.shields.io/badge/Ajax-0c0d0c?style=for-the-badge&logo=Ajax&logoColor=white"><br>
 > > 
+ >> <img src="https://img.shields.io/badge/JSP-0c0d0c?style=for-the-badge&logo=JSP&logoColor=white"><br>
+> >
 >## 백엔드
- >> JAVA8
+ >> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br>
 > >
- >> MVC
+ >> <img src="https://img.shields.io/badge/MVC-0c0d0c?style=for-the-badge&logo=MVC&logoColor=white"><br>
 > >
- >> SpringBoot
+ >> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/><br>
 > >
- >> WebSocket
+ >> <img src="https://img.shields.io/badge/WebSocket-0c0d0c?style=for-the-badge&logo=WebSocket&logoColor=white"><br>
 > > 
 >## DB
- >> Oracle
+ >><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 > >
 
 # ERD
